@@ -195,6 +195,7 @@ The Sentence-BERT model was fine-tuned for semantic match between candidate resu
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
-* **Gundelli Abhilash** &mdash; [@Abhilash2240](https://github.com/Abhilash2240)
-#   A I _ J O B _ S E A R C H _ A G E N T  
+* **Gadidasu Sri Sahith (https://github.com/2303A52243)
+#   A I _ J O B _ S E A R C H _ A G E N T 
+ 
  
